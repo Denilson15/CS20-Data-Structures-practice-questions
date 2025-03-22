@@ -40,8 +40,9 @@ public:
 
 	Node* removeSmallest(Node* r) {
 		if (r == nullptr) return nullptr;
-
-
+		if (r->left == nullptr) return r->right;
+		r->left = removeSmallest(r->left);
+		return r;
 	}
 };
 

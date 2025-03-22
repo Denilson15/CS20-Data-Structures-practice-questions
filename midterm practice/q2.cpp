@@ -26,7 +26,8 @@ Copy paste your code for just the functions.
 
 
 */
-#include <algorithm> 
+#include <algorithm> //used to call the max function to compare left and right inside of my getheight function, its not needed but it rather than using a conditional or the ternary operator
+#include <queue> //used it to implement isComplete, following the level order approach we used in class
 using namespace std; 
 struct Node {
 	int value;
@@ -49,13 +50,36 @@ int getHeight(Node* r) {
 }
 
 bool isComplete(Node* r) {
-
+	if (r == nullptr) return true;
+	q.push(r);
+	bool isNull = false;
+	while (!q.empty()) {
+		Node* temp = q.front();
+		q.pop();
+		if (temp == nullptr) {
+			isNull = true;
+		}
+		else {
+			if (isNull) return false;
+			q.push(temp->left);
+			q.push(temp->right);
+		}
+	}
+	return true;
 }
 
 bool isUnbalanced(Node* r) {
-
+	if (r == nullptr) return false;
+	int left = getHeight(r->left), 
+		right = getHeight(r->right);
+	if (left - right > 1 || right - left > 1) return true;
+	return false;
 }
 
 bool isStrictMinheap(Node* r) {
-
+	if (r == nullptr) return true;
+	if (!isComplete(r)) return false;
+	if ((r->left && r->left->value < r->value) || (r->right && r->right->value < r->value)) 
+		return isStrictMinheap(r->left) && isStrictMinheap(r->right);
+	return false;
 }
