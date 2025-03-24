@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midterm practice\\q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midterm practice\\q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midtermPractice-attemp2\\q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midterm practice\\q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midterm practice\\q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midtermPractice-attemp2\\q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\arrayStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midtermPractice-attemp2\\arrayStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\arrayStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midtermPractice-attemp2\\arrayStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 205,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "q2.cpp",
-              "DocumentMoniker": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midterm practice\\q2.cpp",
-              "RelativeDocumentMoniker": "midterm practice\\q2.cpp",
-              "ToolTip": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midterm practice\\q2.cpp",
-              "RelativeToolTip": "midterm practice\\q2.cpp",
-              "ViewState": "AgIAADQAAAAAAAAAAAAiwEYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "arrayStack.h",
+              "DocumentMoniker": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\arrayStack.h",
+              "RelativeDocumentMoniker": "midtermPractice-attemp2\\arrayStack.h",
+              "ToolTip": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\arrayStack.h",
+              "RelativeToolTip": "midtermPractice-attemp2\\arrayStack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T04:32:53.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "arrayStack.cpp",
+              "DocumentMoniker": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\arrayStack.cpp",
+              "RelativeDocumentMoniker": "midtermPractice-attemp2\\arrayStack.cpp",
+              "ToolTip": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\arrayStack.cpp",
+              "RelativeToolTip": "midtermPractice-attemp2\\arrayStack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-23T23:41:10.87Z",
+              "WhenOpened": "2025-03-24T04:32:52.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "q1.cpp",
-              "DocumentMoniker": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midterm practice\\q1.cpp",
-              "RelativeDocumentMoniker": "midterm practice\\q1.cpp",
-              "ToolTip": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midterm practice\\q1.cpp",
-              "RelativeToolTip": "midterm practice\\q1.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAcwOUAAAAAAAAAAAAAAA==",
+              "Title": "q2.cpp",
+              "DocumentMoniker": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\q2.cpp",
+              "RelativeDocumentMoniker": "midtermPractice-attemp2\\q2.cpp",
+              "ToolTip": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\q2.cpp",
+              "RelativeToolTip": "midtermPractice-attemp2\\q2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-22T04:45:56.425Z",
+              "WhenOpened": "2025-03-24T04:32:48.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "q3.cpp",
+              "DocumentMoniker": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\q3.cpp",
+              "RelativeDocumentMoniker": "midtermPractice-attemp2\\q3.cpp",
+              "ToolTip": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\q3.cpp",
+              "RelativeToolTip": "midtermPractice-attemp2\\q3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T04:32:46.677Z",
               "EditorCaption": ""
             }
           ]
