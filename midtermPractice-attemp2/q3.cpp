@@ -24,9 +24,6 @@ Node* removeSmallest(Node* r) {
 }
 
 
-
-
-
 int getSmallest(Node* r) {
 	if (r == nullptr) return -1; //base case empty tree
 	if (r->left == nullptr) return r->value; //traverse all the way left until we reach this base case, once this is true we return r.value since that would be the smallest node in the tree

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midterm practice\\q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midterm practice\\q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\orderedLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midtermPractice-attemp2\\orderedLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midterm practice\\q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midterm practice\\q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midtermPractice-attemp2\\q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\bst.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midtermPractice-attemp2\\bst.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "q2.cpp",
-              "DocumentMoniker": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midterm practice\\q2.cpp",
-              "RelativeDocumentMoniker": "midterm practice\\q2.cpp",
-              "ToolTip": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midterm practice\\q2.cpp",
-              "RelativeToolTip": "midterm practice\\q2.cpp",
-              "ViewState": "AgIAADQAAAAAAAAAAAAiwEYAAAAAAAAAAAAAAA==",
+              "Title": "orderedLinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\orderedLinkedList.cpp",
+              "RelativeDocumentMoniker": "midtermPractice-attemp2\\orderedLinkedList.cpp",
+              "ToolTip": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\orderedLinkedList.cpp",
+              "RelativeToolTip": "midtermPractice-attemp2\\orderedLinkedList.cpp",
+              "ViewState": "AgIAANUAAAAAAAAAAAAiwPgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-23T23:41:10.87Z",
+              "WhenOpened": "2025-03-25T00:38:08.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bst.cpp",
+              "DocumentMoniker": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\bst.cpp",
+              "RelativeDocumentMoniker": "midtermPractice-attemp2\\bst.cpp",
+              "ToolTip": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\bst.cpp",
+              "RelativeToolTip": "midtermPractice-attemp2\\bst.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T00:37:44.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "q1.cpp",
-              "DocumentMoniker": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midterm practice\\q1.cpp",
-              "RelativeDocumentMoniker": "midterm practice\\q1.cpp",
-              "ToolTip": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midterm practice\\q1.cpp",
-              "RelativeToolTip": "midterm practice\\q1.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAcwOUAAAAAAAAAAAAAAA==",
+              "Title": "q3.cpp",
+              "DocumentMoniker": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\q3.cpp",
+              "RelativeDocumentMoniker": "midtermPractice-attemp2\\q3.cpp",
+              "ToolTip": "C:\\Users\\galva\\OneDrive\\Desktop\\School Work\\Spring 2025\\CS20\\CS20-midterm-practice-questions\\midtermPractice-attemp2\\q3.cpp",
+              "RelativeToolTip": "midtermPractice-attemp2\\q3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-22T04:45:56.425Z",
+              "WhenOpened": "2025-03-25T00:37:31.348Z",
               "EditorCaption": ""
             }
           ]
