@@ -111,17 +111,20 @@ public:
         }
 
         Node<T>* temp = other.headPtr;
+        headPtr = new Node<T>(*temp); // Copy the first node
         Node<T>* current = headPtr;
+        temp = temp->next;
+
         while (temp != nullptr) {
-            current->next = new Node(temp);
-            current->prev->next = current;
-            temp = temp->next;
+            current->next = new Node<T>(*temp);
+            current->next->prev = current;
             current = current->next;
+            temp = temp->next;
         }
+
         tailPtr = current;
         length = other.length;
     }
-
 
 
 
@@ -238,39 +241,38 @@ public:
     // when v is the new biggest or the new smallest value.
 
     void insert(const T& v) {
-        Node<T>* toInsert = new Node(v);
-        if (headPtr == nullptr) {
-            headPtr->value = toInsert;
-            tailPtr->value = toInsert;
+        Node<T>* toInsert = new Node(v); //allocate new memory for the node and pass to it v as its value
+        if (headPtr == nullptr) { //in the case in which the linked list is empty
+            headPtr = toInsert; //we need to assign toInsert to headPtr 
+            tailPtr= toInsert; //the address from toInsert is being assigned to tailPtr
         }
-        else if (v <= headPtr) {
-            toInsert->next = headPtr;
-            headPtr->prev = toInsert;
-            headPtr = toInsert;
+        else if (v <= headPtr->value) { //if our value that were trying to insert is less than the headptr.value then insert it before the headptr
+            toInsert->next = headPtr; //we make sure to conenct the toInsert.next to the current headptr
+            headPtr->prev = toInsert; //and take the current headptr.prev and make sure it points to toInsert
+            headPtr = toInsert; //then we simply update headptr so that instead of it pointing to the previous address it pointed to it now points to toInserts address
         }
-        else if (length == 1) {
-            headPtr->next = toInsert;
+        else if (tailPtr->value <= v) { // the case in whic the value were inserting is greater than the tailptr.value meaning it should be last in line
+            tailPtr->next = toInsert; // we should update the current tailptr.next address to be assigned the address of the new node we are trying to insert
+            toInsert->prev = tailPtr; // we now update the node we are inserting's previous ptr to point to what is currently the tailptr
+            tailPtr = toInsert; //now once its all connected we can make sure that tailptr points to the new tailptr's address in this case its the new address since it should be last
         }
-        else if (tailPtr->value <= v) {
-            tailPtr->next = toInsert;
-            toInsert->prev = tailPtr;
-            tailPtr = toInsert;
-        }
-        else {
-            Node<T>* current = headPtr;
-            while (current->next != nullptr && current->next->value < toInsert->value) {
-                current = current->next;
-            }
-            toInsert->next = current->next;
-            toInsert->prev = current;
+        else { //in any other case that means its in the middle so we have to traverse
+            Node<T>* current = headPtr; //we create a temp/current that gets assigned the address of the headPtr
+            while (current->next != nullptr && current->next->value < toInsert->value) { //this loop runs as long as the current.next is not null and the 
+                //current.next.value is less than the value we are trying to insert
+                current = current->next; //simply update current until we reach the point where current.next is either null making sure it doesnt keep looping past the last value
+                //or will still if its no longer less than the value we are going to inser
+            } //here weve stopped at the value that will be before our new node were inserting
+            toInsert->next = current->next; //we need to make sure toInsert points to whatever is currently current's next address
+            toInsert->prev = current; //and we need to make sure that its prev points to current
 
-            if (current->next != nullptr) {
-                current->prev = toInsert;
+            if (current->next != nullptr) { 
+                current->next->prev = toInsert; //we need to make sure the node after current has a prev that points to toInsert
             }
-            current->next = toInsert;
+            current->next = toInsert; //lastly we can assign toInsert to current.next's address
+            }
         }
-        }
-        length++;
+        length++; //simply increment the length for all cases since we added a node to the list
     }
 
 

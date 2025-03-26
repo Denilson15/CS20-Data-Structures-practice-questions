@@ -14,7 +14,6 @@ bool isPerfect(Node* r) {
 	if ((r->left != nullptr && r->right == nullptr) || (r->right != nullptr && r->left == nullptr)) return false; //case in which a right subtree exist but left doesnt or the vice versa left exists but right doesnt
 	if (getHeight(r->left) != getHeight(r->right)) return false; //case in which the height is not equal then we return false
 	return isPerfect(r->left) && isPerfect(r->right); //checks both the left and right subtrees to see what they return
-
 }
 
 int getHeight(Node* r) {
@@ -58,7 +57,7 @@ bool isStrictMinHeap(Node* r) {
 int getSmallest(Node* r) {
 	if (r == nullptr) return -1; //base case empty tree
 	if (r->left == nullptr) return r->value; //traverse all the way left until we reach this base case, once this is true we return r.value since that would be the smallest node in the tree
-	return getSmalest(r->left); //ensure we recursively return the value we found at the base case;
+	return getSmallest(r->left); //ensure we recursively return the value we found at the base case;
 }
 
 
