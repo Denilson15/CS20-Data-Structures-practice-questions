@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\galva\\Desktop\\Desktop\\School\\Spring 2025\\CS20\\DSA\\CS20-midterm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\Desktop\\Desktop\\School\\Spring 2025\\CS20\\DSA\\CS20-midterm\\midtermPractice-attemp2\\orderedLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midtermPractice-attemp2\\orderedLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\Desktop\\Desktop\\School\\Spring 2025\\CS20\\DSA\\CS20-midterm\\midtermPractice-attemp2\\bst.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midtermPractice-attemp2\\bst.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\Desktop\\Desktop\\School\\Spring 2025\\CS20\\DSA\\CS20-midterm\\midtermPractice-attemp2\\orderedLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midtermPractice-attemp2\\orderedLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\Desktop\\Desktop\\School\\Spring 2025\\CS20\\DSA\\CS20-midterm\\midtermPractice-attemp2\\smallestNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midtermPractice-attemp2\\smallestNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galva\\Desktop\\Desktop\\School\\Spring 2025\\CS20\\DSA\\CS20-midterm\\midtermPractice-attemp2\\arrayStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,33 +30,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "smallestNode.cpp",
+              "DocumentMoniker": "C:\\Users\\galva\\Desktop\\Desktop\\School\\Spring 2025\\CS20\\DSA\\CS20-midterm\\midtermPractice-attemp2\\smallestNode.cpp",
+              "RelativeDocumentMoniker": "midtermPractice-attemp2\\smallestNode.cpp",
+              "ToolTip": "C:\\Users\\galva\\Desktop\\Desktop\\School\\Spring 2025\\CS20\\DSA\\CS20-midterm\\midtermPractice-attemp2\\smallestNode.cpp",
+              "RelativeToolTip": "midtermPractice-attemp2\\smallestNode.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T02:10:37.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "orderedLinkedList.cpp",
               "DocumentMoniker": "C:\\Users\\galva\\Desktop\\Desktop\\School\\Spring 2025\\CS20\\DSA\\CS20-midterm\\midtermPractice-attemp2\\orderedLinkedList.cpp",
               "RelativeDocumentMoniker": "midtermPractice-attemp2\\orderedLinkedList.cpp",
               "ToolTip": "C:\\Users\\galva\\Desktop\\Desktop\\School\\Spring 2025\\CS20\\DSA\\CS20-midterm\\midtermPractice-attemp2\\orderedLinkedList.cpp",
               "RelativeToolTip": "midtermPractice-attemp2\\orderedLinkedList.cpp",
-              "ViewState": "AgIAADgBAAAAAAAAAAAAAAwBAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAAAF8BAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-25T18:03:01.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "bst.cpp",
               "DocumentMoniker": "C:\\Users\\galva\\Desktop\\Desktop\\School\\Spring 2025\\CS20\\DSA\\CS20-midterm\\midtermPractice-attemp2\\bst.cpp",
               "RelativeDocumentMoniker": "midtermPractice-attemp2\\bst.cpp",
               "ToolTip": "C:\\Users\\galva\\Desktop\\Desktop\\School\\Spring 2025\\CS20\\DSA\\CS20-midterm\\midtermPractice-attemp2\\bst.cpp",
               "RelativeToolTip": "midtermPractice-attemp2\\bst.cpp",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAADoAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-25T16:16:07.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "arrayStack.cpp",
               "DocumentMoniker": "C:\\Users\\galva\\Desktop\\Desktop\\School\\Spring 2025\\CS20\\DSA\\CS20-midterm\\midtermPractice-attemp2\\arrayStack.cpp",
               "RelativeDocumentMoniker": "midtermPractice-attemp2\\arrayStack.cpp",
@@ -60,7 +77,8 @@
               "RelativeToolTip": "midtermPractice-attemp2\\arrayStack.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-25T16:16:05.812Z"
+              "WhenOpened": "2025-03-25T16:16:05.812Z",
+              "EditorCaption": ""
             }
           ]
         }

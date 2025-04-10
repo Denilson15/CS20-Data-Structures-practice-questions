@@ -348,7 +348,15 @@ public:
             delete toDelete; //now once the values have been updated to point to the correct value we can delete toDelete
             length--; //and we decrement the length since we have one less
         }
+
+        void removeBiggest() {
+            if (headptr == nullptr) return;
+            Node<T>* toDelete = tailPtr;
+            tailPtr = tailPtr->prev;
+            delete toDelete;
+        }
     };
+
 
     }
 
