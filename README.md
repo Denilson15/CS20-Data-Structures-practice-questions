@@ -1,42 +1,40 @@
 # CS 20: Midterm Practice Questions – Data Structures
 
-This repository contains practice problems completed in preparation for the **CS 20 Data Structures** midterm exam. The exercises cover various fundamental topics in C++ and data structures to reinforce understanding of core concepts.
+This repository contains practice problems completed in preparation for the **CS 20 Data Structures** midterm exam. The exercises cover a wide range of foundational topics, from basic recursion to core data structures like **linked lists**, **trees**, **stacks**, **queues**, and **sorting algorithms**.
 
 > 💡 No AI was used in the development of these solutions. AI tools were utilized solely for documentation purposes, such as generating this README. I was also still learning GitHub at the time, so some files may reflect early version control practices.
 
 ## ✨ Overview
 
-The practice problems were based on typical midterm topics for a data structures course, including:
+The problems here were based on likely midterm content and designed to reinforce understanding of:
 
-- Basic array manipulation
-- Linked lists
-- Recursion
-- Sorting algorithms
-- Searching algorithms
-- Stack and queue concepts
+- How data structures work under the hood
+- Algorithm implementation in C++
+- Hands-on application of recursion, iteration, and memory management
 
 ## ⚙️ How It Works
 
-- Each file contains solutions or partial solutions to different types of questions expected on the midterm.
-- Some problems are self-contained, while others build upon typical data structure implementations.
-- Code is written in C++ using basic STL components where appropriate.
+- Each file addresses a specific concept or problem type.
+- Solutions are written in C++ using arrays, pointers, and STL where applicable.
+- Problems include both function-level implementations and full program logic.
 
 ## 🛠️ Concepts Practiced
 
-- Arrays and pointers
-- Singly linked lists
-- Recursive algorithms
-- Iterative sorting and searching
+- Arrays and pointer manipulation
+- Singly and doubly linked lists
+- Recursive functions
 - Stack and queue operations
-- Basic memory management in C++
+- Tree traversal and structure
+- HeapSort and sorting techniques
+- Dynamic memory and input/output handling
 
 ## 📁 File Structure
 
-- `.cpp` files – Practice questions and solution attempts
+- `.cpp` files – Solution attempts for individual midterm practice problems
 - `README.md` – Project documentation
 
 ## 🚧 Notes
 
-- This repository is a collection of practice work and was not intended as a polished project.
-- Some files may be incomplete or contain mistakes, as they were created as part of the learning process.
-- Developed while learning both data structures and GitHub workflows for the first time.
+- This repo serves as a personal archive of practice problems and study notes.
+- Some files may be incomplete or contain errors, as they reflect an early stage in my learning process.
+- Created during CS 20 while also learning GitHub.
